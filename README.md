@@ -1,9 +1,14 @@
-# api documentation for  [gulp-jsdoc (v0.1.5)](https://github.com/jsBoot/gulp-jsdoc)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-jsdoc.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-jsdoc) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-jsdoc.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-jsdoc)
+# npmdoc-gulp-jsdoc
+
+#### api documentation for  [gulp-jsdoc (v0.1.5)](https://github.com/jsBoot/gulp-jsdoc)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-jsdoc.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-jsdoc) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-jsdoc.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-jsdoc)
+
 #### A jsdoc plugin for Gulp
 
-[![NPM](https://nodei.co/npm/gulp-jsdoc.png?downloads=true)](https://www.npmjs.com/package/gulp-jsdoc)
+[![NPM](https://nodei.co/npm/gulp-jsdoc.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-jsdoc)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-jsdoc/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-gulp-jsdoc%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-jsdoc/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-gulp-jsdoc/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-gulp-jsdoc/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-jsdoc/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-jsdoc/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-gulp-jsdoc/build/screenCapture.npmPackageListing.svg)
 
@@ -18,12 +23,10 @@
 {
     "author": {
         "name": "Mangled Deutz",
-        "email": "olivier@webitup.fr",
         "url": "https://github.com/dmp42"
     },
     "bugs": {
-        "url": "https://github.com/jsBoot/gulp-jsdoc/issues",
-        "email": "dev@webitup.fr"
+        "url": "https://github.com/jsBoot/gulp-jsdoc/issues"
     },
     "contributors": [],
     "dependencies": {
@@ -76,18 +79,15 @@
     "main": "./index.js",
     "maintainers": [
         {
-            "name": "dmp",
-            "email": "olivier@webitup.fr"
+            "name": "dmp"
         },
         {
-            "name": "indexzero",
-            "email": "charlie.robbins@gmail.com"
+            "name": "indexzero"
         }
     ],
     "name": "gulp-jsdoc",
     "optionalDependencies": {},
     "private": false,
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/jsBoot/gulp-jsdoc.git"
@@ -99,16 +99,6 @@
     "version": "0.1.5"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module gulp-jsdoc](#apidoc.module.gulp-jsdoc)
-
-
-
-# <a name="apidoc.module.gulp-jsdoc"></a>[module gulp-jsdoc](#apidoc.module.gulp-jsdoc)
 
 
 
